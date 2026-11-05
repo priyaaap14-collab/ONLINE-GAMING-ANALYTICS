@@ -434,5 +434,3 @@ The analysis of 40,034 player records produced the following results.
 - Pandas Documentation: https://pandas.pydata.org/docs/
 - Kaggle Dataset: https://www.kaggle.com/datasets/wasiqaliyasir/online-gaming-behavior-insight
 
-the repository a star!
-
